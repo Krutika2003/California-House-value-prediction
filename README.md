@@ -1,0 +1,1 @@
+In this project , I'm embarking on a fascinating exploration of machine learning techniques to predict house values in california. This dataset have attributes like median house value, income, population and more. Here, i've used Linear Regression model, Decision Tree Regressor and Random Forest Regressor to Predict the median House Values.
